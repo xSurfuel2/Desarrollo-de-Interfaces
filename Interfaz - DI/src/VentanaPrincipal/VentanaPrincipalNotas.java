@@ -3,8 +3,8 @@ package VentanaPrincipal;
 import javax.swing.*;
 
 public class VentanaPrincipalNotas {
-    private JRadioButton radioButton1;
+    private JRadioButton acceptTermsRadioButton;
     private JButton usernameButton;
+    private JButton confirmButton;
     private JButton passwordButton;
-    private JButton button1;
 }
